@@ -1,0 +1,6 @@
+---
+
+  - name: user add centos and set password.
+    user:
+      name: centos
+      password: "{{centos_password}}"

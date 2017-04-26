@@ -1,0 +1,4 @@
+---
+
+  - include: useradd.yml
+    tags: useradd
