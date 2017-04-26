@@ -25,6 +25,9 @@ SSH password:   # 输入ansible_ssh_user密码
 ## 变量说明
 
 modify_root_password: True  # 如果设置为```True```，就会修改操作系统密码。密码为```root_password```设置的值。
+
 root_password:  # 设置root用户密码。
+
 root_password_grub  # grub 密码。
+
 centos_password:  # Centos 用户密码。
