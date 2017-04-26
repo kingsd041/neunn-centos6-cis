@@ -18,5 +18,6 @@
 - hosts: centos
   user: root
   roles:
+    - check_requirements
     - useradd
     - cis 

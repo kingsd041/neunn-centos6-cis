@@ -4,7 +4,8 @@
 
 1. Centos 6安全加固，编写playbook时测试的操作系统是Centos 6.8，其他Centos6版本的操作系统未测试，但应该好用。  
 2. 执行过程中会自动设置root和centos用户的密码，密码设置参见***变量说明***章节。
-3. 这个playbook是参见github上[cis-rhel-ansible](https://github.com/major/cis-rhel-ansible.git)
+3. 执行完成完成完成后，会禁用root通过ssh登录。只能通过普通用户登录。
+4. 这个playbook是参见github上[cis-rhel-ansible](https://github.com/major/cis-rhel-ansible.git)
 
 ![http://media.giphy.com/media/7U1XfwZ94okRW/giphy.gif](http://media.giphy.com/media/7U1XfwZ94okRW/giphy.gif)
 
