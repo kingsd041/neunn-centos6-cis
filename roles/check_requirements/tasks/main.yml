@@ -1,0 +1,4 @@
+---
+
+  - include: check_requirements.yml
+    tags: check_requirements

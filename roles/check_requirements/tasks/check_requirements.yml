@@ -1,0 +1,6 @@
+---
+
+  - name: Check if OS is Debian-based (we do not support others)
+    debug: msg="Check OS family"
+    failed_when: ansible_os_family != "RedHat" or ansible_distribution_version|int >= 7
+    tags: check_requirements

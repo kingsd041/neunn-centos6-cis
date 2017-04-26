@@ -4,3 +4,4 @@
     user:
       name: centos
       password: "{{centos_password}}"
+      shell: /bin/bash
