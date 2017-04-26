@@ -6,7 +6,7 @@
 2. 执行过程中会自动设置root和centos用户的密码，密码设置参见***变量说明***章节。
 3. 这个playbook是参见github上[cis-rhel-ansible](https://github.com/major/cis-rhel-ansible.git)
 
-![https://camo.githubusercontent.com/c0c4dfbd1b5c9fee8d40b246c555167a2cd2bedc/687474703a2f2f6d656469612e67697068792e636f6d2f6d656469612f3755315866775a39346f6b52572f67697068792e676966](https://camo.githubusercontent.com/c0c4dfbd1b5c9fee8d40b246c555167a2cd2bedc/687474703a2f2f6d656469612e67697068792e636f6d2f6d656469612f3755315866775a39346f6b52572f67697068792e676966)
+![http://media.giphy.com/media/7U1XfwZ94okRW/giphy.gif](http://media.giphy.com/media/7U1XfwZ94okRW/giphy.gif)
 
 ## 版本  
 
