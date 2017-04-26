@@ -1,2 +1,2 @@
 [centos]
-10.2.250.103 ansible_ssh_host=10.2.250.103 ansible_ssh_user=root ansible_ssh_pass=WWW.163.com
+x.x.x.x ansible_ssh_host=x.x.x.x ansible_ssh_user=root
